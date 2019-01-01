@@ -1,9 +1,9 @@
 ## Command Line test
-I am about to test git command
+I am about to test git commands
 
 ## What
 Some random commands
-Committing chunkst of a file
+Committing chunks  of a file
 Committing only the changes by picking them
 Cherry-pick
 Revert commit - remote
@@ -11,12 +11,12 @@ Reset commit - local
 Checkout - reset working copy of the file
 
 ## How
-git add -p <file>  for stagin the portion of a file
-gives the option to either stage chunk by chunk or all the changes
-option e: give the greater flexibility by allowing to pick the changes that needs to be committed
+git add -p <file>  for staging the portion of a file
+gives the option to either stage hunk(s) or all the changes
+option e: gives greater flexibility to selectively pick the changes that needs to be committed
 
 git cherry-pick <commit>: 
-cherry picks the selected commit and applies the changes to the current working copy and adds the commit
+cherry picks the selected commit  and adds the commit to the working copy 
 
 git cherry-pick -n <commit>: 
 cherry picks the selected commit and applies the changes to the current working copy but doesn't add the commit
