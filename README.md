@@ -1,1 +1,25 @@
-# comand_line_test
+## Command Line test
+I am about to test git commands
+
+## What
+Some random commands
+Committing chunks  of a file
+Committing only the changes by picking them
+Cherry-pick
+Revert commit - remote
+Reset commit - local
+Checkout - reset working copy of the file
+
+## How
+git add -p <file>  for staging the portion of a file
+gives the option to either stage hunk(s) or all the changes
+option e: gives greater flexibility to selectively pick the changes that needs to be committed
+
+git cherry-pick <commit>: 
+cherry picks the selected commit  and adds the commit to the working copy 
+
+git cherry-pick -n <commit>: 
+cherry picks the selected commit and applies the changes to the current working copy but doesn't add the commit
+
+
+
