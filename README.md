@@ -3,12 +3,19 @@ I am about to test git commands
 
 ## What
 Some random commands
+
 Committing chunks  of a file
+
 Committing only the changes by picking them
+
 Cherry-pick
-Revert commit - remote
+
+Revert commit - remote - but not shared with anyone else or not pushed to anyother branch
+
 Reset commit - local
+
 Checkout - reset working copy of the file
+
 
 ## How
 git add -p <file>  for staging the portion of a file
