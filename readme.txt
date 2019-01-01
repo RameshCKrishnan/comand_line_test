@@ -5,3 +5,4 @@ I am about to test git command
 Some random commands
 
 ## How
+add part of a file
