@@ -32,4 +32,4 @@ git reset <head~1> or <commit_hash> to reset your local branch to previous commi
 git push -d origin <remote_branch> to delete the remote branch
 git push -u origin <remote_branch> to recreate the remote branch without the commit that was removed by reset
 
-
+git remote => to see the remote name: typically "origin"
