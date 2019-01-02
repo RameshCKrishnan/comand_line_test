@@ -25,9 +25,6 @@ option e: gives greater flexibility to selectively pick the changes that needs t
 git cherry-pick <commit>: 
 cherry picks the selected commit  and adds the commit to the working copy 
 
-git cherry-pick <commit1> <commit2>
-to cherry pick more than one commit in the order from left to right
-
 git cherry-pick -n <commit>: 
 cherry picks the selected commit and applies the changes to the current working copy but doesn't add the commit
 
