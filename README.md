@@ -16,6 +16,7 @@ Reset commit - local
 
 Checkout - reset working copy of the file
 
+test 01
 
 ## How
 git add -p <file>  for staging the portion of a file
