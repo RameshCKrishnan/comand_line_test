@@ -18,6 +18,7 @@ Checkout - reset working copy of the file
 
 test 01
 test 02
+test 03
 
 ## How
 git add -p <file>  for staging the portion of a file
